@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to a friend, about the late proclamation on the 11th of December, 1679, for further proroguing the Parliament till the 11th of November next ensuing</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48156</idno>
+            <idno type="STC">Wing L1637</idno>
+            <idno type="STC">ESTC R9259</idno>
+            <idno type="EEBO-CITATION">13111098</idno>
+            <idno type="OCLC">ocm 13111098</idno>
+            <idno type="VID">97630</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48156)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97630)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 744:37)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to a friend, about the late proclamation on the 11th of December, 1679, for further proroguing the Parliament till the 11th of November next ensuing</title>
+               </titleStmt>
+               <extent>[2], 13 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Marginal notes.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+               <term>England and Wales. --  Sovereign (1660-1685 : Charles II). --  Proclamation for proroguing the Parliament till the eleventh of November next.</term>
+               <term>England and Wales. --  Parliament.</term>
+               <term>Popish Plot, 1678.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97630:1"/>
+            <pb facs="tcp:97630:1" rendition="simple:additions"/>
+            <p>A LETTER TO A FRIEND, About the late PROCLAMATION On the 11th. of <hi>December,</hi> 1679. For further <hi>PROROG<g ref="char:V">Ʋ</g>ING</hi> THE PARLIAMENT Till the 11th. of <hi>November</hi> next enſuing.</p>
+            <q>
+               <p>Imprimis intereſt Reipublicae, ut pax in Regno conſervetur, &amp; quaecunque paci adverſentur, providè declinentur.</p>
+               <p>Nihil Infra Regnum ſubditos magis conſervat in tranquilli<g ref="char:EOLhyphen"/>tate &amp; concordia, quam debita Legum adminiſtratio.</p>
+               <bibl>Coke Inſt. 2d. Fol. 158.</bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed <hi>Anno Dom.</hi> 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:97630:2"/>
+            <pb n="1" facs="tcp:97630:2"/>
+            <head>A LETTER TO A FRIEND, &amp;c.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Know you are a Lover of News, provided it be good, and ſuch as may promote the honour of his moſt <hi>ſacred Majeſty,</hi> and the intereſt of our <hi>Nati<g ref="char:EOLhyphen"/>on,</hi> which conſiſts in the conſtant preſervation of the <hi>true Proteſtant Religion,</hi>
+               <note n="*" place="margin">
+                  <hi>Magna Chartae</hi> the beſt Law, next to the Di<g ref="char:EOLhyphen"/>vine of any in the World.</note> 
+               <hi>Liberty,</hi> and <hi>Property;</hi> which, I hope, will never be <hi>invaded</hi> by any <hi>Foreign Power,</hi> and which certainly I may very well preſume to believe will never be in the leaſt <hi>incroached upon</hi> at <hi>home,</hi> by any whomſoever, during the happy life of our <hi>gratious Soveraign,</hi> whom <hi>God Almighty</hi> in his infinite mer<g ref="char:EOLhyphen"/>cy long continue among us.</p>
+            <p>But ſuch is the <hi>obſtreperous noiſe</hi> of malevolent tongues, that I find nothing will pleaſe, in this nice and ſcrupulous <hi>Juncture</hi> of affairs and circumſtances, whatſoever may poſ<g ref="char:EOLhyphen"/>ſibly be endeavoured, to give the moſt of content and ſa<g ref="char:EOLhyphen"/>tisfaction. All things that come on the ſudden, ſtrike the ſenſes of the <hi>unthinking populace</hi> with ſuch a gaſtly ſurprize, that ſtrait it preſents them with the <hi>Idea</hi> of <hi>Raw-head</hi> and
+<pb n="2" facs="tcp:97630:3"/>
+               <hi>Bloody bones,</hi> without any further Reflections upon the mat<g ref="char:EOLhyphen"/>ter, until ſome <hi>wiſer heads</hi> take it into their ſerious conſide<g ref="char:EOLhyphen"/>ration to undeceive them; and to ſhow them, that if ever they mean to learn to be <hi>better Politicks,</hi> and more <hi>Loyal Subjects,</hi> by weighing every Intelligence in the unerring Ballance of a ſolid and ſteady Judgement, this is the time.</p>
+            <p>Every <hi>Coffee-houſe</hi> now ſeems, as it were, a <hi>Cabal of State,</hi> and the conſidering poſitive Cuſtomer as great a <hi>Privy Coun<g ref="char:EOLhyphen"/>ſellour,</hi> as (ſome would fain have us for certain to believe,) the <hi>moſt Chriſtian King, Monſieur Colbert,</hi> and the reſt of the <hi>French Cabinet,</hi> are here, at the <hi>Royal-board,</hi> in every thing that is tranſacted.</p>
+            <p>I am ſorry to ſay ſo much, but yet my integrity obliges me to ſpeak the truth, or not to ſpeak at all: — and how am I ca<g ref="char:EOLhyphen"/>pable to be ſilent, that have on each ſide my Ears, almoſt whereſoever buſineſs, or what elſe calls me, the perpetual gratings of unpleaſant diſcourſes; eſpecially, about this laſt <hi>Proclamation</hi> of His <hi>Majeſty</hi> for the <hi>Poroguing</hi> of his <hi>Parlia<g ref="char:EOLhyphen"/>ment</hi> from the 26th. of <hi>January,</hi> 1679/80. till the 11th of <hi>No<g ref="char:EOLhyphen"/>vember</hi> following, 1680. when as yet, the people cry, he hath never ſeen half their Faces, and ſo conſequently cannot know the temper of their ſpirits, how far they will ſtand by him with their Lives and Fortunes upon all occaſions; or what they will unanimouſly do for him, to advance his glory and honour, by making him <hi>formidable</hi> to all his <hi>Enemies,</hi> and <hi>envied</hi> by his <hi>Neighbours;</hi> and by fetling him, if that can poſſibly be, more deeply in the hearts and affe<g ref="char:EOLhyphen"/>ctions of all his Loving and Obedient Subjects.</p>
+            <p>I muſt confeſs, at the firſt daſh, what the People do ge<g ref="char:EOLhyphen"/>nerally ſay, ſeems to carry great ſtrength of Reaſon along with it; And, you know, the <hi>multitude,</hi> for want of bet<g ref="char:EOLhyphen"/>ter underſtanding, take up with <hi>firſt Notions,</hi> and run hand<g ref="char:EOLhyphen"/>ſmooth away with them; they think it a mighty piece of
+<pb n="3" facs="tcp:97630:3"/>impertinence and folly, to be ſerious in ſearching deep into the <hi>ſtreſs</hi> of matters, when (alas!) they are ſo plain and obvious to every common Capacity, that certainly none but thoſe deſerve <hi>Bedlam,</hi> or a worſe place, who in the leaſt queſtion, or disbelieve them.</p>
+            <p>Are we not, ſay they, in a <hi>wood</hi> of Intanglements, and e<g ref="char:EOLhyphen"/>minent dangers, begirt round with numbers that have their ſeveral <hi>Intereſts</hi> to bring us unto Ruine, and Miſery? Do not the <hi>Papiſts</hi> more than ever come thick upon us with their Helliſh and Damnable Plots, and Conſpiracies? Is it not their principle to depoſe and murther KINGS, to kill Subjects and People, and to make the <hi>Streets,</hi> as a <hi>Red Sea,</hi> with the <hi>bloud</hi> of <hi>Proteſtants,</hi> whom they falſly call HERETICKS, and damn, if it be poſſible, their Souls too into the bargain? Have we not experienced this in Queen <hi>Maries</hi> days? And in our freſh remembrances, does not the ſight of our <hi>new built houſes,</hi> ſadly put us in mind, that <hi>the glorious City was become a heap of Aſhes?</hi> And how many Repetitions of <hi>dreadful fires</hi> have been both in <hi>Suburbs,</hi> and <hi>Countries,</hi> ſince that amaz<g ref="char:EOLhyphen"/>ing <hi>conflagration?</hi> What tricks and deviſes have been uſed by them, (for the luſt as well as advantage of <hi>Foreigners</hi>) to <hi>Pro<g ref="char:EOLhyphen"/>rogue,</hi> and <hi>diſſolve</hi> our <hi>Parliaments?</hi> and is it not too true, that the Dutchy of <hi>Mantoua, Legorn,</hi> and ſeveral other places a<g ref="char:EOLhyphen"/>broad, above a month before any ſuch thing was talkt on here, had advice from <hi>Rome,</hi> that our <hi>preſent Parliament</hi> (which, as it did highly concern us, we did with impatience hope, and almoſt verily believe, ſhould ſit at the ſtated time in <hi>Janua<g ref="char:EOLhyphen"/>ry</hi> next, but now to our great aſtoniſhment, find our big ex<g ref="char:EOLhyphen"/>pectations are dwindled into diſappointment) that our <hi>pre<g ref="char:EOLhyphen"/>ſent Parliament,</hi> I ſay, ſhould very ſhortly for certain be <hi>Prorogued</hi> for near a twelve month; and have not we had Letters of it ſent over to us by our Factors there? And, is it not ſtrange that one of the <hi>Lords</hi> in the <hi>Tower,</hi> almoſt a week before any ſuch rumour or ſurmiſe was in Town, ſhould
+<pb n="4" facs="tcp:97630:4"/>confidently report the ſame <hi>Prorogation,</hi> &amp; for the ſame length of time to be within a very few daies? And that it ſhould ſo happen as they had prophecyed? Can we know, ſee, and hear of all theſe things, and yet believe we are ſafe and well, and our Circumſtances as happy as ever? Surely we muſt not be blind in pure complaiſance, becauſe our Courteous e<g ref="char:EOLhyphen"/>nemies would have us ſo.</p>
+            <p>This, and a great deal more, Sir, is the common diſ<g ref="char:EOLhyphen"/>courſe of all <hi>Coffee-houſes,</hi> if not of moſt <hi>private Societies:</hi> but to ſhow you what may be ſaid by way of <hi>healing</hi> and reconcilement, be pleaſed to let me preſent you with theſe following Conſiderations.</p>
+            <p n="1">1. And firſt of all, certainly none can have ſuch a ridi<g ref="char:EOLhyphen"/>culous and groundleſs fancy to believe, that the KING can be any ways inclinable<note n="*" place="margin">
+                  <hi>If there ſhould be any ſuch, I would caution them to remem<g ref="char:EOLhyphen"/>ber one Act, and it is in</hi> 13. <hi>Ca.</hi> 2. <hi>C.</hi> 1. <hi>S.</hi> 2. <hi>Entituled,</hi> An Act for the ſafety and preſervation of His Majeſties perſon and Govern<g ref="char:EOLhyphen"/>ment, againſt Treaſonable and Se<g ref="char:EOLhyphen"/>ditious Practiſes and Attempts.</note> to <hi>Po<g ref="char:EOLhyphen"/>pery;</hi> when (not to mention the treatment and uſage he met with in his unhappy exile at ſuch a tender Age) he has ſo clearly o<g ref="char:EOLhyphen"/>pened his heart, and in the moſt ingaging words imaginable, de<g ref="char:EOLhyphen"/>clared to the contrary over and over again, to <hi>both his Houſes of Parliament;</hi> and has he not given them the aſſurance of it upon his <hi>Royal word,</hi> (and what can be required more?) that <hi>in all things which concerned their Religion,</hi>
+               <note place="margin">His Majeſties moſt Gracious Speech to both Houſes of Parlia<g ref="char:EOLhyphen"/>ment, <hi>Wedneſday 30th. of April, 1679.</hi>
+               </note> 
+               <hi>and the pub<g ref="char:EOLhyphen"/>lick ſecurity, he ſhould not fol<g ref="char:EOLhyphen"/>low their Zeal, but lead it?</hi> And for the generality of us, <hi>if we reſpect our obedience to God, what appearance is there, that after ſo durable and general an enlightning of our minds with the ſacred truth, we ſhould again put out our own eyes, to wander through the palpable dark<g ref="char:EOLhyphen"/>neſs of the Romiſh groſs ſuperſtition?</hi> And hath not His <hi>Ma<g ref="char:EOLhyphen"/>jeſty</hi>
+               <pb n="5" facs="tcp:97630:4"/>ſeveral times told us, he verily believes there is a Plot and Conſpiracy by the <hi>Papiſts</hi> againſt his moſt <hi>ſacred Per<g ref="char:EOLhyphen"/>ſon,</hi> and ſhall we imagine, he can have any kindneſs for them, or their Idolatrous Religion, which bolſters them up in ſuch horrible wickedneſs, as to take away His life, deſtroy his Subjects, or at leaſt abſolve them from their Allegiance to him, and poſſeſs themſelves of his Kingdome, by mak<g ref="char:EOLhyphen"/>ing it a <hi>Fendatory</hi> to the <hi>See</hi> of <hi>Rome?</hi> This would be next to <hi>Nonſenſical</hi> ſurely, but to put it upon the <hi>ſuppoſition.</hi>
+            </p>
+            <p n="2">2. And then, what ground or Reaſon can any one have to think that he is fallen out with his Parliaments? Has <hi>any King been ſo much beholding to them, as he has been?</hi>
+               <note place="margin">His Speech to both Houſes of Parliament, <hi>21th. March, 1663/4, Pag. 6.</hi>
+               </note> He has himſelf told you <hi>none,</hi> nor does he <hi>think the Crown can be happy without frequent Parliaments:</hi> And hath he not often of la<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e repeated to the ſame effect, his affection to, and eſteem for them? and will nothing aſſure you that he is Real, becauſe he hath made ſo many <hi>Prorogations,</hi> and eſpecially now ſo long a One? He hath told you, he hath been forced (no doubt to his own inward regret,) to <hi>diſſolve two Parliaments</hi> with<g ref="char:EOLhyphen"/>in leſs then a years time, becauſe of the great hea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s and a<g ref="char:EOLhyphen"/>nimoſities among them: And if this <hi>preſent Parliament</hi> has only met as yet to be <hi>Prorogued,</hi> you hear from him why it is, <hi>viz. <hi>for many wieghty Reaſons,</hi>
+               </hi> which he would have all his dutiful Subjects to know, are the <hi>Arcana Imperii,</hi> not to be ſearched into, till he ſees the beſt time <hi>gratiouſly</hi> to re<g ref="char:EOLhyphen"/>veal them. He hath heard how great the murmurs of his People have been, at the <hi>heavy taxes</hi> that the <hi>Parliament</hi> have ſo often laid upon them; and perhaps that may be one Reaſon, why he is unwilling to have them ſit any oftner than abſolute neceſſity may require, becauſe he will not put them into fears and inquietudes of new, and more greivous Impoſitions; but chooſes rather to ſubmit to the loſs of a
+<pb n="6" facs="tcp:97630:5"/>great part of his Revenue, (which he does certainly with<g ref="char:EOLhyphen"/>in a little time,) and to take up with ſuch <hi>Retrenchments</hi> in his own houſe, that are almoſt to the diſhonour of an <hi>Eng<g ref="char:EOLhyphen"/>liſh Monarch,</hi> than he will, as much as in him lies, give them any diſguſt. He hath promiſed, in the <hi>Interval,</hi> to make as ſtrict a ſearch as he can into the plot himſelf, and to do all things for his people to their own wiſh if they will but have patience, and give him time. You ſee, he hath iſſued forth ſeveral <hi>Proclamations</hi> for Removing of <hi>Roman Catho<g ref="char:EOLhyphen"/>licks</hi> ten miles from the City of <hi>London</hi> and <hi>Westminſter,</hi> and hath ſtraitly charged the <hi>Lord Mayor</hi> and <hi>Aldermen,</hi> and his <hi>Juſtices of the Peace,</hi> to ſee them put in due Execution: He hath promiſed great rewards to any whoſoever, that ſhall apprehend <hi>Prieſts,</hi> or <hi>Jeſuits,</hi> or make but any diſcovery of their Lands or Eſtates; and given frequent aſſurances that he will be unwearied in his care and dilligence for our good, for the ſafety of our Lives, Religion, Liberty, Property, and all that is dear to us. Now what more can be ſaid by a <hi>gracious King,</hi> and what leſs can he expect from an <hi>obedi<g ref="char:EOLhyphen"/>ent people,</hi> next to our truſt in <hi>Almighty God,</hi> than that we ſhould all unanimouſly repoſe our Confidence in him, and reſt ſatisfied under his Protection?</p>
+            <p>But, O cry the people very fiercely, here's a year's <hi>Proroga<g ref="char:EOLhyphen"/>tion</hi> longer, and we ſhall never ſee our dearly beloved <hi>Parliament</hi> again; The <hi>French King,</hi> he is ready to fall ſwoop upon us with a very great Army, and what Ships have we to oppoſe him? we hear too what is to be done in <hi>Scotland,</hi> ten thouſand of <hi>Additional forces</hi> to be raiſed to the <hi>ſtanding Militia;</hi> Beſides how inclinable is <hi>Ireland</hi> to rebel naturally, and eſpecially, when it is like to meet with ſo many great advantages on all hands; and what if <hi>Holland</hi> ſhould come and clap in 20000 more in ſome other parts of the Kings Dominions, are we not in a fine bepickled condition to re<g ref="char:EOLhyphen"/>ceive them? and yet we muſt fear nothing: I confeſs, if
+<pb n="7" facs="tcp:97630:5"/>theſe things ſhould occur, it is the high road way to make us Slaves and Vaſſals; but if ever it tends to make— more great and glorious, more free, more unconfin'd, and abſolute, <hi>Phillida ſolus habeto.</hi>
+            </p>
+            <p>I anſwer, 'tis true, we have ſome Grounds to be Jealous, leaſt a <hi>French Armade</hi> may too ſoon come over, and attaque us; but, admit the worſt, that it ſhould dare to invade us, they cannot any where Land ſo conſiderable a number both of Horſe and men, as there ought to be for ſuch a deſign, in ſo ſhort a time<g ref="char:punc">▪</g> as that the Country would not be Allarm'd at it, and be preſently up to quell ſo adventurous a Motion; as we may be ſure of, by what happened about a year ſince in the Iſle of <hi>Purbeck</hi> in <hi>Dorſetſhire:</hi> And when once we ſhould find it was a thing in earneſt, all <hi>England</hi> would join in the con<g ref="char:EOLhyphen"/>cert, and be as one man againſt ſo dangerous and potent an E<g ref="char:EOLhyphen"/>nemy, as is He of <hi>France.</hi> It has been ſaid, that<note n="*" place="margin">Letter from <hi>Amſterdam</hi> to a friend in <hi>London.</hi>
+               </note> 
+               <hi>England is a dull Brute;</hi> I know not how juſt<g ref="char:EOLhyphen"/>ly it might deſerve the ill-favoured Epithite, ſuppoſing the <hi>Brute</hi> might be allowed, but only in this reſpect, that it does not fully know the greatneſs of its own ſtrength; but this I think I may very confidently ſay, and ſtand to't, that whenſoever any ſhould put us upon the <hi>bloudy experiment,</hi> and provoke us to extremities; they would find that <hi>Engliſh</hi> hearts and courages, eſpecially on the defenſive part, and that too of a juſt and <hi>righteous cauſe,</hi> are not of <hi>common</hi> mould: No, when we ſee our <hi>all</hi> lies at ſtake; our Souls, our Bodies, our Eſtates, our Wives, our Children, our Reformed Religion, and all that makes for the peace and happineſs of our KING, and Country; we ſhall no longer dally, but <hi>quit our ſelves like men,</hi> and like <hi>Chriſtians;</hi> and ſince in ſuch a caſe, it may be ſaid, <hi>we are fighting the Lord's battles,</hi> how may we expect to have the <hi>Almighty Arm</hi> aſſiſting, and going before us, <hi>conquering, and to conquer,</hi> and of whom then ſhould we be afraid?</p>
+            <p>And as to the <hi>Proclamation</hi> for <hi>proroguing the Parliament,</hi>
+               <pb n="8" facs="tcp:97630:6"/>what falſe concluſions doe they draw from it? We ſay, <hi>à potentia Hominis ad actum non valot conſequentia;</hi> But they will have it, right or wrong, that the <hi>Parliament</hi> is <hi>prorogued</hi> till the 11th. of <hi>November,</hi> becauſe the <hi>Proclamation,</hi> and the KING by that, ſays, that <hi>having many weighty Reaſons</hi> (not yet convenient for us to know, or elſe, to be ſure, he would acquaint us with them,) he is reſolved, the <hi>Parliament</hi> ſhall on the 26th. of <hi>January,</hi> be <hi>prorogued</hi> till the 11th. of <hi>Novem<g ref="char:EOLhyphen"/>ber</hi> next. Now, I pray, let me make ſome few ſhort remarks hereupon, as they are plainly obvious to every underſtanding Perſon, and I will then ſubmit my ſelf to your Judgements for the reaſonableſs of what I ſay.</p>
+            <p n="1">I. Can you find any thing that proves the <hi>Parliament</hi> is by this <hi>Proclamation</hi> de facto <hi>prorogued</hi> till <hi>November</hi> next? If no, as I am ſure, you cannot; why are you then ſo clamorous and poſitive, as to affirm it is?</p>
+            <p n="2">II. The Proclamation is but declarative of what the KING intends to do on the 26th. of <hi>January,</hi> becauſe of <hi>the many weighty Reaſons</hi> that move him to do ſo; but do you think, if, before the time of their <hi>meeting</hi> next month, the KING ſhould have <hi>more weighty Reaſons,</hi> both for number and quality, to induce him to the contrary, and to oblige him to change his Reſolution, that he would not, becauſe the <hi>Royal<g ref="char:EOLhyphen"/>word</hi> was gone forth? our Laws are not like to thoſe of the <hi>Medes</hi> and <hi>Perſians,</hi> which alter not; and ſurely much leſs may we imagine that <hi>Proclamations</hi> are irrevocable.</p>
+            <p n="3">III. To be ſure the KING will be very well adviſed in<g ref="char:EOLhyphen"/>deed, before he actually <hi>prorogues</hi> his <hi>Parliament</hi> for ſo long a time as a twelve moneth; becauſe he knows then, that how urging ſoever the occaſion may be, to require him to have his <hi>Parliament</hi> ſit ſooner, yet they cannot in the <hi>Inter<g ref="char:EOLhyphen"/>val</hi> of prorogation ſit legally to do any thing but in a pre<g ref="char:EOLhyphen"/>paratory way, <hi>in ordine ad, &amp;c.</hi> to have things ſo much the more ready againſt the opening of the <hi>Parliament;</hi> and therefore they muſt be extroardinary <hi>weighty Reaſons,</hi> that
+<pb n="9" facs="tcp:97630:6"/>ſhall oblige him to run the hazard of ſo great an Inconveni<g ref="char:EOLhyphen"/>ence, which is no other way remediable, but by a preſent diſ<g ref="char:EOLhyphen"/>ſolution of this, and calling of a <hi>new Parliament,</hi> and that too will take up a good deal of time, in iſſuing forth the <hi>Writs,</hi> and waiting for the proper Court days to elect Members,</p>
+            <p n="4">IIII. Though the KING at the time of his iſſuing out this Proclamation, ſaw nothing that could out-weight thoſe <hi>Reaſons,</hi> betwixt than, and the 26th. of <hi>January,</hi> and there<g ref="char:EOLhyphen"/>fore not to put his <hi>Parliament-men</hi> to unneceſſary charges, by their long and weariſome Journies up to Town, with their Numerous Servants to wait on them, ſays in great affect<g ref="char:EOLhyphen"/>ion, as well as condeſcention, <hi>That we will not at the ſaid ſix and twentieth day of</hi> January <hi>ex<g ref="char:EOLhyphen"/>pect the attendance of any but only ſuch as be<g ref="char:EOLhyphen"/>ing inor about the City of London and Weſtminſter may attend the making the ſaid Prorogation;</hi>
+               <note place="margin">The ſaid Pro<g ref="char:EOLhyphen"/>clamation.</note> Yet if every <hi>Member</hi> of <hi>Parliament,</hi> the Lords Spiritual and temporal and every of the Knights, Citizens, and Burgeſſes of the Houſe of Commons (who repreſent in Par<g ref="char:EOLhyphen"/>liament all the Communalty of <hi>England</hi>) ſhould be at the expence and trouble of coming up to Town,<note place="margin">
+                  <hi>Co.</hi> 2. <hi>Inſt.</hi> 157.</note> to appear in their reſpective houſes, and ſhould than and there<note n="*" place="margin">Eritis inſupe<g ref="char:EOLhyphen"/>rahiles, ſi fuer<g ref="char:EOLhyphen"/>itis inſeparabi<g ref="char:EOLhyphen"/>les.</note> unanimouſly reſolve immediately to ſend unto his <hi>Majeſty</hi> (according to the 13. <hi>Car.</hi> 2<g ref="char:punc">▪</g> 
+               <hi>c.</hi> 5. before ever they ſhould be called up to the Lord's houſe,) tenn of the Noble Lords from that houſe, in their own Names, and in the names of all the o<g ref="char:EOLhyphen"/>ther their Fellow-Peers; and the Houſe of Commons like<g ref="char:EOLhyphen"/>wiſe to ſend tenn of the chief of their Members to his <hi>Majeſty</hi> in their own Names, and in the names of all the Commons of <hi>England,</hi> and they ſeverally to caſt themſelves at his Ma<g ref="char:EOLhyphen"/>jeſties feet, and with the utmoſt humility, and ſence of duty and loyalty, plainly and briefly to lay open before him, the great danger his <hi>Royal</hi> perſon is in, from the preſent Plots,
+<pb n="10" facs="tcp:97630:7"/>influences, villanous deſigns, and bloudy conſpiracies of the <hi>Papiſts,</hi> as alſo that of the Proteſtant Religion, and the ancient well eſtabliſhed Government of this his Kingdome, and all his <hi>Majeſties</hi> Proteſtant Subjects; and likewiſe humbly to beg (as ever he regards the preſervation of thoſe,) ſince they were now ſo happily met together, to conſult <hi>de arduis &amp; urgenti<g ref="char:EOLhyphen"/>bus negotiis Regni,</hi> that his <hi>Majeſty</hi> would be gratiouſly pleaſed to let the <hi>Parliament</hi> continue to fit, that ſo he might thereby come to the knowledge of the ſteadineſs of their loyalty, and affection for his ſervice, till they had effected theſe great things, which would make him the moſt fear'd of Princes in this life, and his Name hereafter glorious in Chronicle, and which would moſt undoubtedly be to the Infinite Joy and ſatisfaction of all his loving and dutiful Subjects; if, I ſay, they ſhould all thus meet and do; can any one imagine that he would reſolutely withſtand ſuch an earneſt prayer, and ſo univerſally put up to him by his whole Realm? let none offer to believe it; for nothing can truely be the Subjects intereſt and felicity, that is Independant on the <hi>King</hi>'s: and where all join in hands and hearts, for the real good, peace, and proſperity of his <hi>ſacred perſon,</hi> and his Kingdom, ſure he cannot but gladly hear, he will not but affectionately grant.</p>
+            <p>
+               <hi>Jacob</hi> ſtrove and wreſtled in prayer, and did prevail ac<g ref="char:EOLhyphen"/>cordingly 32 <hi>Gen.</hi> And although <hi>God</hi> had reſolved <hi>Heze<g ref="char:EOLhyphen"/>kiah</hi>'s death, and to that end ſent his Prophet <hi>Iſaiah</hi> to tell him of it, as for certain, from him, with a <hi>thus ſaith she Lord, ſet thine Houſe in order, for thou ſhalt dye, and not live;</hi> (and here's a reduplication of the ſame thing, to denote, as it were, the Impoſſibility of the reverſal;) yet when <hi>Heze<g ref="char:EOLhyphen"/>kiah pray'd unto the Lord, and beſeeched him to remember,</hi> how he had walk'd, and what he had done, and <hi>wept ſore</hi> before him in prayer, by way of an ardent importunity that his life might be prolonged; <hi>God</hi> was wrought upon by his unfeigned requeſt, and he ſent his Prophet again to him.
+<pb n="11" facs="tcp:97630:7"/>
+               <hi>ſaying, the Lord, the God of David thy Father, hath heard thy prayer, he hath ſeen thy tears, and he will add unto thy days fifteen years:</hi> Nay, he granted him more than his Peti<g ref="char:EOLhyphen"/>on, for he likewiſe promiſed <hi>to deliver both him, and his City out of the hands of the King of Aſſyria,</hi> and that <hi>he would be the defence of that City;</hi> and, to put it out of all manner of queſtion, that he ſhould not be ſo good as his word, he aſſured it by a ſign, of <hi>bringing the ſhadow of the degrees which was gone down in the Sunn-dyall of Ahaz, tenn degrees back-ward.</hi> All which you may read in 38 1ſ. from the firſt to the 9th. verſe.</p>
+            <p>But this is not by any way of Application, becauſe <hi>Almigh<g ref="char:EOLhyphen"/>ty God</hi> did hearken to <hi>Hezekiah</hi>'s prayer, and was intreated of him to add a further continuance to his life, notwithſtanding his ſeeming fixed reſolution then to put a period to his day. here on earth, that therefore the people might come <hi>tumultu<g ref="char:EOLhyphen"/>ouſly</hi> and <hi>ſeditiouſly</hi> to offer up their <hi>Petitions</hi> to his <hi>ſacred Majeſty</hi> upon all occaſions, when any particular diſcontented freagues ſhould poſſeſs their heads; far be it from me to have the leaſt of ſuch a thought, for I would periſh rather than maintain it: but yet methinks (ſince it is poſſible that KINGS may be miſlead by the falſe ſuggeſtions and informations of evil Conſellors, to act, in ſome things, contrary to their own Royal intereſt, and the peace and proſperity of their truely Loyal Subjects,) provided they do not ſin againſt any of the <hi>Common,</hi> or <hi>Statute Laws</hi> of this Realm, by joining in <hi>Peti<g ref="char:EOLhyphen"/>tions,</hi> for the Alteration of the Laws, <hi>&amp;c.</hi> they need not be denied the making of their Addreſſes to him, in an humble and befitting manner, for theſe two Reaſons.</p>
+            <p n="1">1. Becauſe nothing can be more ſignificative of the peo<g ref="char:EOLhyphen"/>ple's great and undoubted dependence on him for the redreſ<g ref="char:EOLhyphen"/>ſing of all their grievances, than ſuch a low and becoming proſtration: 'Tis the higheſt duty and reverence that can be paid him, and that which,</p>
+            <pb n="12" facs="tcp:97630:8"/>
+            <p n="2">2. Does moſt aſſimilate him to God himſelf: who, as he is the moſt abſolute, ſupream <hi>being</hi> both of Heaven and Earth in his infinite wiſdome, hath found out no other way for us, by which to perform our utmoſt ſubmiſſion and allegiance to Him than by this of prayer and fervent ſupplication: we can but fall down upon our Knees, when we would pay our higheſt adorations to the <hi>King of Kings;</hi> and He, in that ten<g ref="char:EOLhyphen"/>der <hi>mercy,</hi> which is over all his works, hath made that to be, our greateſt duty, and ſence of devotion, which is our moſt exalted felicity: what then can be more advancing of glory to an earthly KING, and what can be more expreſſive of deep humility in a ſubjected people, than ſuch dutiful incurvati<g ref="char:EOLhyphen"/>ons, in an obſervance of thoſe <hi>Laws,</hi> of which he hath gra<g ref="char:EOLhyphen"/>tiouſly been pleaſed to oblige himſelf to be <hi>the defendour,</hi> as well as <hi>of the Faith.</hi>
+            </p>
+            <p>And, therefore to conclude, if there be any like to <hi>Thomas Woolſey,</hi> (whom in 7. H. 8. was made Cardinal, and grew into the heigth of his Authority and favour with the <hi>King,</hi> and hates both Parliaments, and Common Laws, (the principal means to keep Greatneſs in order and due ſubjection,) as he did,<note place="margin">Co. <hi>2.</hi> Inſt. fol. <hi>626.</hi>
+               </note> as it is contained in his Indictment, which he confeſſed of record, that he in<g ref="char:EOLhyphen"/>tended (to uſe the very words of the Record,) <hi>antiquiſſimas Angliae leges penitus ſubvertere, &amp; enervare, univerſumque hoc Regnum Angliae, &amp; ejuſdem Regni populum legibus Imperia<g ref="char:EOLhyphen"/>libus, vulgò dictis legibus civilibus, &amp; earundem Legum Canonibus imperpetuum ſubjugare, &amp; ſubducere,</hi> &amp;c. and for the execution of his intended Plot, he was the means, that but one <hi>Parliament</hi> was holden in 14. years, <hi>viz.</hi> from the 7. year to the 21. of <hi>H.</hi> 8. I ſay, if any, in this parti<g ref="char:EOLhyphen"/>cular, be like to the Cardinal, I pray God, in great mercy to this Nation, grant, that ſuch wicked and damnable de<g ref="char:EOLhyphen"/>ſigns may ſome way or other be diſcloſed to his <hi>Sacred Ma<g ref="char:EOLhyphen"/>jeſty,</hi> that they may ſpeedily receive the due deſerts of ſuch
+<pb n="13" facs="tcp:97630:8"/>a treachery: For the ends of <hi>Parliaments</hi> are, 1. <hi>Regni Me<g ref="char:EOLhyphen"/>lioratio,</hi> the common good of the Kingdom, the <hi>Parlia<g ref="char:EOLhyphen"/>ment</hi> being, as my Lord <hi>Coke</hi> ſays, the <hi>Com<g ref="char:EOLhyphen"/>mune Concilium:</hi> and 2. <hi>Exhibitio juſtitiae ple<g ref="char:EOLhyphen"/>nior,</hi>
+               <note place="margin">
+                  <hi>Co. Inſt.</hi> 2.280.</note> for nothing is more glorious and neceſſary than the full execution of Juſtice: and as for the <hi>Common-Laws</hi> of <hi>England,</hi> the Nobility have ever had them in great eſtima<g ref="char:EOLhyphen"/>tion, and reverence, as their beſt birth right, and ſo have the <hi>Kings</hi> of <hi>England,</hi>
+               <note place="margin">id. fol. <hi>97.</hi>
+               </note> as their principal Royalty, and right belonging to their Crown and Dignity: This made <hi>H.</hi> 1. that noble <hi>King,</hi> Sirnamed <hi>Beau<g ref="char:EOLhyphen"/>clark</hi> to write to Pope <hi>Paſehal</hi> thus,<note place="margin">Chart. H. <hi>1.</hi>
+               </note> 
+               <hi>Notum habeat Sanctitas veſtra, quod me vivente (auxiliante Deo) dignitates &amp; uſus Regni noſtri Angliae non imminuentur, &amp; ſi Ego (quod abſit) in tantâ me dejectione ponerem, Optimates mei, &amp; totus Ang<g ref="char:EOLhyphen"/>liae populus, id nullo modo pateretur:</hi> Both which thoſe Miſ<g ref="char:EOLhyphen"/>creants would utterly deſtroy, by cauſing a perpetual <hi>ab<g ref="char:EOLhyphen"/>ſence</hi> of <hi>Parliaments,</hi> and by making the <hi>Common Laws</hi> of <hi>England</hi> to truckle to the <hi>Canons</hi> of the <hi>Civil Laws</hi> of <hi>Rome.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
